@@ -1,247 +1,299 @@
-# Hi, I'm Mariem Ben Attia 👋
+<div align="center">
 
-🎓 **Final-year Telecommunications Engineering Student @ SUP'COM**
-🤖 **AI & Edge AI Enthusiast | Embedded Systems | IoT | Networking**
-📍 Zaghouan, Tunisia
+# 👋 Hi, I'm **Mariem Ben Attia**
 
-I am a final-year Telecommunications Engineering student at **SUP'COM**, specializing in **Systèmes de Traitement Intelligent et Communicants (SysTIC)**.
+### 🎓 Telecommunications Engineering Student @ SUP'COM
 
-I am passionate about building **intelligent embedded systems**, combining **Artificial Intelligence, Edge Computing, Signal Processing, IoT, and Telecommunications** to solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Edge+AI+%7C+Embedded+Systems+%7C+Telecommunications;AI+%26+Machine+Learning+Enthusiast;Real-Time+Systems+%7C+IoT+%7C+Signal+Processing;Building+Intelligent+Systems+at+the+Edge+%F0%9F%9A%80" />
 
----
+<br>
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-mariembenattia12-181717?style=for-the-badge\&logo=github)](https://github.com/mariembenattia12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariem%20Ben%20Attia-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:mariem.benattia@supcom.tn)
 
-* 🎓 Final-year Telecommunications Engineering student at **SUP'COM**
-* 🧠 Specializing in **Intelligent Processing & Communicating Systems (SysTIC)**
-* 🤖 Interested in **Artificial Intelligence, Edge AI & Machine Learning**
-* ⚙️ Passionate about **Embedded Systems and Real-Time Systems**
-* 📡 Interested in **Telecommunications, Networking & IoT**
-* 🔊 Currently developing an **embedded voice detection system on STM32**
-* 🌱 Currently learning more about **Embedded AI, RTOS, Signal Processing & Edge Computing**
-* 💡 Interested in research and engineering projects at the intersection of **AI, Embedded Systems and Telecommunications**
+📍 **Zaghouan, Tunisia**
+🧠 **SysTIC Specialization — Intelligent Processing & Communicating Systems**
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+# 🧠 About Me
 
-### 💻 Programming & Data
+```text
+Telecommunications
+       │
+       ├── 📡 Wireless & Networking
+       │
+       ├── 📊 Signal Processing
+       │
+       └── 🌐 IoT
+              │
+              ▼
+        ┌───────────────┐
+        │    Edge AI    │
+        └───────────────┘
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+ 🤖 Machine       ⚙️ Embedded
+    Learning         Systems
+       │             │
+       └──────┬──────┘
+              ▼
+     🚀 Intelligent Systems
+```
 
-`Python` `C` `C++` `MATLAB` `VHDL`
+I'm a **final-year Telecommunications Engineering student at SUP'COM**, specializing in **Systèmes de Traitement Intelligent et Communicants (SysTIC)**.
 
-`Pandas` `NumPy` `PyTorch` `TensorFlow` `scikit-learn`
+My main interest lies at the intersection of:
 
-### 🤖 Artificial Intelligence
+**Artificial Intelligence × Embedded Systems × Telecommunications**
 
-`Machine Learning` `Deep Learning` `Computer Vision`
-
-`Model Training` `Feature Extraction` `Classification`
-`Model Evaluation` `Dataset Preparation` `Lightweight Neural Networks`
-
-### 🧠 AI / LLM
-
-`LLaMA 3` `LangChain` `LangGraph` `RAG` `NLP`
-
-### ⚙️ Embedded Systems
-
-`STM32` `ESP-IDF` `UART` `I2C` `SPI`
-
-`Real-Time Systems` `RTOS` `Embedded AI` `Edge AI`
-
-### 📡 Telecommunications & IoT
-
-`Networking` `IoT` `IoT Protocols` `Signal Processing`
-
-`RF Systems` `Optical Communications` `Wireless Communications`
-
-### 🌐 Web & Software
-
-`HTML` `CSS` `JavaScript` `React` `Flutter`
-
-`Next.js` `NestJS` `REST APIs` `JWT`
-
-### 🗄️ Databases & Tools
-
-`PostgreSQL` `MongoDB` `Oracle` `Docker`
-
-`Git` `GitHub` `VS Code` `CMake` `GoogleTest`
+I enjoy transforming AI and signal-processing concepts into **real-time, resource-efficient intelligent systems**.
 
 ---
 
-# 🔬 Featured Projects
+# 🔥 What I'm Working On
 
-## 🚗 Vehicle Diagnostic RAG
+### 🎙️ Embedded AI Voice Detection
 
-**AI-powered vehicle diagnostic assistant using Retrieval-Augmented Generation.**
+Currently working on an **embedded voice detection system** using the:
 
-The system retrieves relevant technical information from automotive documentation and combines it with **DTC codes** to generate natural-language diagnostic explanations and troubleshooting recommendations.
-
-**Technologies:**
-`Python` `LLM` `RAG` `LangChain` `ChromaDB` `FastAPI` `NLP`
-
-🔗 [View Project](https://github.com/mariembenattia12/vehicle-diagnostic-rag)
-
----
-
-## ⚡ Mini-RTOS Scheduler Simulator
-
-A **C++17 real-time scheduling simulator** designed to explore fundamental RTOS scheduling concepts.
-
-Implemented scheduling policies include:
-
-* Round Robin
-* Preemptive Priority Scheduling
-* Earliest Deadline First (EDF)
-* Task management
-* Gantt chart visualization
-* Unit testing
-
-**Technologies:**
-`C++17` `RTOS` `Real-Time Scheduling` `OOP` `CMake` `GoogleTest`
-
-🔗 [View Project](https://github.com/mariembenattia12/Mini-RTOS-Scheduler-Simulator)
-
----
-
-## 🩻 DiagnoVision AI
-
-An AI-based chest X-ray analysis system combining **Deep Learning, LLM reasoning and explainable AI**.
-
-The project uses **DenseNet121** for image classification, **Grad-CAM** for visual explanations, and an LLM-based reasoning pipeline.
-
-**Technologies:**
-`Python` `Deep Learning` `DenseNet121` `LLaMA 3` `LangChain` `LangGraph` `Grad-CAM` `Streamlit`
-
-**Results:**
-
-* 🎯 Accuracy: **98.6%**
-* 📈 AUC: **0.998**
-* 🔍 Recall: **99.5%**
-
-🔗 [View Project](https://github.com/mariembenattia12/diagnovision)
-
----
-
-## ☀️ SolarHawk
-
-AI-powered **thermal photovoltaic defect detection** system using YOLO.
-
-The system detects several types of PV anomalies from thermal images and provides an interactive monitoring dashboard.
-
-**Detected classes:**
-
-* Hot Spots
-* Diode Anomaly
-* Reverse Polarity
-* Vegetation Masking
-
-**Technologies:**
-`Python` `YOLO` `Computer Vision` `Thermal Imaging` `Streamlit`
-
-**Results:**
-
-* mAP@50: **74.9%**
-* Recall: **74.6%**
-* Precision: **63.9%**
-
-🔗 [View Project](https://github.com/mariembenattia12/solarhawk)
-
----
-
-## 🏥 MedUnity
-
-A full-stack medical management platform designed to manage interactions between patients, doctors and administrators.
-
-Features include:
-
-* Role-based access control
-* Patient management
-* Doctor management
-* Authentication
-* REST APIs
-* PostgreSQL database
-
-**Technologies:**
-`TypeScript` `Next.js` `NestJS` `PostgreSQL` `REST API` `JWT`
-
-🔗 [View Project](https://github.com/mariembenattia12/Medunity)
-
----
-
-## 📡 mmWave Radar People Counting
-
-During my engineering internship at **ScreenFlex**, I worked on an embedded AI solution for **people counting using TI IWR6843ISK mmWave radar**.
-
-The system processes radar data and combines:
-
-* Signal Processing
-* 3D Point Cloud Analysis
-* DBSCAN Clustering
-* Object Tracking
-* Bidirectional People Counting
-
-**Technologies:**
-`TI IWR6843ISK` `mmWave Radar` `Signal Processing` `Python` `DBSCAN` `Object Tracking` `Embedded AI`
-
----
-
-# 🔊 Current Project
-
-## STM32 Embedded Voice Detection
-
-Currently working on an **Embedded AI audio voice detection system** using the **B-U585I-IOT02A development board**.
+> **B-U585I-IOT02A — STM32U585**
 
 The project focuses on:
 
-* 🎙️ Audio acquisition
-* 📊 Embedded audio signal processing
-* 🧠 AI-based voice detection
+* 🎤 Audio acquisition
+* 📈 Audio signal processing
+* 🤖 AI-based voice detection
 * ⚡ Real-time inference
 * 🔋 Efficient embedded processing
-* 🔧 STM32 development
+* 🧩 STM32 development
 
-**Technologies:**
-`STM32` `B-U585I-IOT02A` `Embedded AI` `Audio Processing` `C` `Edge AI`
-
----
-
-# 💼 Experience
-
-### Embedded AI Project — STMicroelectronics
-
-**Sep. 2026 – Present**
-
-Developing an embedded audio voice detection system based on the **B-U585I-IOT02A** development board, focusing on real-time audio processing and AI on STM32.
-
-### Engineering Internship — ScreenFlex
-
-**Jul. 2026 – Aug. 2026**
-
-Developed an embedded AI people-counting solution using **TI IWR6843ISK mmWave radar**, including signal processing, point-cloud analysis, DBSCAN clustering and object tracking.
-
-### Introductory Internship — Tunisie Telecom
-
-**Jul. 2025**
-
-Explored telecommunications infrastructure including ROC/network monitoring, microwave links, fiber-optic systems, RAN Sharing and GPON/FTTH architectures.
+**Focus:** `Embedded AI` · `Signal Processing` · `STM32` · `Real-Time Systems`
 
 ---
 
-# 📚 Education
+# ⚡ Tech Stack
 
-### 🎓 SUP'COM — Higher School of Communications of Tunis
+<div align="center">
+
+### 🤖 Artificial Intelligence
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### 🧠 LLM & Generative AI
+
+![LLaMA](https://img.shields.io/badge/LLaMA%203-0467DF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+
+### ⚙️ Embedded & Real-Time
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+
+### 📡 Telecommunications & IoT
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+
+### 🌐 Web & Backend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚗 Vehicle Diagnostic RAG
+
+AI-powered vehicle diagnostic assistant using **Retrieval-Augmented Generation**.
+
+🔹 DTC code analysis
+🔹 Technical knowledge retrieval
+🔹 Natural-language diagnosis
+🔹 Troubleshooting assistance
+
+**Stack**
+
+`Python` `LLM` `RAG` `LangChain` `ChromaDB` `FastAPI`
+
+<br>
+
+<a href="https://github.com/mariembenattia12/vehicle-diagnostic-rag">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Mini-RTOS Scheduler
+
+A **C++17 real-time scheduling simulator** exploring fundamental RTOS concepts.
+
+🔹 Round Robin
+🔹 Preemptive Priority
+🔹 EDF Scheduling
+🔹 Gantt Chart Visualization
+🔹 Unit Testing
+
+**Stack**
+
+`C++17` `RTOS` `EDF` `CMake` `GoogleTest`
+
+<br>
+
+<a href="https://github.com/mariembenattia12/Mini-RTOS-Scheduler-Simulator">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🩻 DiagnoVision AI
+
+AI pipeline for **chest X-ray analysis** combining deep learning, LLM reasoning and explainable AI.
+
+🎯 Accuracy: **98.6%**
+📈 AUC: **0.998**
+🔍 Recall: **99.5%**
+
+**Stack**
+
+`DenseNet121` `LLaMA 3` `LangGraph` `Grad-CAM` `Streamlit`
+
+<br>
+
+<a href="https://github.com/mariembenattia12/diagnovision">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ☀️ SolarHawk
+
+YOLO-based **thermal PV defect detection** system.
+
+🔹 Hot Spots
+🔹 Diode Anomaly
+🔹 Reverse Polarity
+🔹 Vegetation Masking
+
+📊 mAP@50: **74.9%**
+🎯 Recall: **74.6%**
+
+**Stack**
+
+`Python` `YOLO` `Computer Vision` `Thermal Imaging`
+
+<br>
+
+<a href="https://github.com/mariembenattia12/solarhawk">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📡 Engineering Experience
+
+### 🏢 STMicroelectronics
+
+**Embedded AI Project · Sep. 2026 – Present**
+
+> Developing a real-time **embedded voice detection system** using STM32 and audio processing techniques.
+
+`STM32` `Embedded AI` `Audio Processing` `Signal Processing`
+
+---
+
+### 📡 ScreenFlex
+
+**Engineering Internship · Jul. 2026 – Aug. 2026**
+
+> Developed an **AI-based people-counting system** using TI IWR6843ISK mmWave radar.
+
+**Pipeline**
+
+```text
+mmWave Radar
+      ↓
+Signal Processing
+      ↓
+3D Point Cloud
+      ↓
+DBSCAN Clustering
+      ↓
+Object Tracking
+      ↓
+Bidirectional People Counting
+```
+
+`TI IWR6843ISK` `mmWave` `DBSCAN` `Tracking` `Embedded AI`
+
+---
+
+### 🌐 Tunisie Telecom
+
+**Introductory Internship · Jul. 2025**
+
+Explored:
+
+`ROC` · `Network Monitoring` · `Microwave Links` · `Fiber Optics` · `RAN Sharing` · `GPON/FTTH`
+
+---
+
+# 🎓 Education
+
+### 🏫 SUP'COM — Higher School of Communications of Tunis
 
 **Engineering Cycle in Telecommunications**
-2024 – Present
+`2024 – Present`
 
-**Specialization:**
-Systèmes de Traitement Intelligent et Communicants (**SysTIC**)
+🎯 **Specialization:** SysTIC — Intelligent Processing & Communicating Systems
 
-**Relevant Coursework:**
+**Relevant Coursework**
 
-`Advanced Wireless Communication Systems`
+`Advanced Wireless Communications`
 `Digital Radio Systems`
-`Photonic Technologies and Applications`
+`Photonic Technologies`
 `RF Measurement`
 `Optical Link Quality`
 `Artificial Intelligence`
@@ -251,105 +303,142 @@ Systèmes de Traitement Intelligent et Communicants (**SysTIC**)
 `Embedded Systems`
 `Data Engineering`
 
-### IPEIN — Preparatory Institute for Engineering Studies of Nabeul
+---
+
+### 🏆 IPEIN — Preparatory Institute for Engineering Studies
 
 **Preparatory Classes PT**
-2022 – 2024
+`2022 – 2024`
 
-🏆 National Engineering Entrance Exam Ranking: **13 / 686**
+🥇 **National Engineering Entrance Exam:** `13 / 686`
 
 ---
 
 # 📜 Certifications
 
-* **CCNA 1 – Introduction to Networks** — Cisco Networking Academy
-* **Edge AI Fundamentals** — Coursera
-* **MLOps Concepts** — DataCamp
-* **Deep Learning Techniques in MATLAB for Imaging Applications** — MATLAB
-* **Key Signal Processing Techniques in MATLAB** — MATLAB
+| Certification                                 | Platform                 |
+| --------------------------------------------- | ------------------------ |
+| 🌐 CCNA 1 – Introduction to Networks          | Cisco Networking Academy |
+| 🤖 Edge AI Fundamentals                       | Coursera                 |
+| ⚙️ MLOps Concepts                             | DataCamp                 |
+| 🧠 Deep Learning Techniques in MATLAB         | MATLAB                   |
+| 📊 Key Signal Processing Techniques in MATLAB | MATLAB                   |
 
 ---
 
-# 🏆 Activities
+# 📊 GitHub Analytics
 
-### HR Manager — Machine Learning Club, SUP'COM
+<div align="center">
 
-**2025 – 2026**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariembenattia12&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
 
-Organized the **AI GOAT 1.0 Hackathon** and contributed to event logistics, coordination and team management.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariembenattia12&layout=compact&hide_border=true&theme=transparent"/>
 
-### Member — TEAM SUP'COM / SOS SUP'COM / GDG SUP'COM
+</div>
 
-**2024 – 2025**
+<br>
 
-Participated in the organization of technological events, workshops and hackathons.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariembenattia12&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🧩 Areas of Interest
+
+<div align="center">
+
+|       🤖 AI      |    ⚙️ Embedded    |       📡 Telecom       |
+| :--------------: | :---------------: | :--------------------: |
+| Machine Learning |       STM32       |    Wireless Systems    |
+|   Deep Learning  |        RTOS       |       Networking       |
+|  Computer Vision |      Edge AI      |           IoT          |
+|     LLM / RAG    | Signal Processing |           6G           |
+|  Explainable AI  |       TinyML      | Optical Communications |
+
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
 ```text
-Embedded AI
-       ↓
-Signal Processing
-       ↓
-Machine Learning
-       ↓
-Edge AI
-       ↓
-Real-Time Systems
-       ↓
-Intelligent Embedded Systems
+┌──────────────────────────────────────────────┐
+│                                              │
+│              EMBEDDED AI                    │
+│                   │                          │
+│          ┌────────┴────────┐                 │
+│          ▼                 ▼                 │
+│    SIGNAL PROCESSING    MACHINE LEARNING     │
+│          │                 │                 │
+│          └────────┬────────┘                 │
+│                   ▼                          │
+│              EDGE AI                         │
+│                   │                          │
+│                   ▼                          │
+│           REAL-TIME SYSTEMS                  │
+│                   │                          │
+│                   ▼                          │
+│       INTELLIGENT EMBEDDED SYSTEMS           │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-I am particularly interested in understanding how AI models can be **optimized and deployed on resource-constrained embedded devices** while maintaining real-time performance and energy efficiency.
+My current goal is to understand how **AI models can be optimized and deployed on resource-constrained embedded devices** while maintaining:
+
+⚡ Real-time performance
+🔋 Energy efficiency
+💾 Memory efficiency
+🎯 Model accuracy
 
 ---
 
-# 🎯 Areas of Interest
+# 🏆 Activities
 
-📌 Edge AI & TinyML
-📌 Embedded Artificial Intelligence
-📌 Real-Time Systems & RTOS
-📌 Signal Processing
-📌 Computer Vision
-📌 Machine Learning & Deep Learning
-📌 IoT & Industrial IoT
-📌 Telecommunications & 6G
-📌 Intelligent Embedded Systems
-📌 AI for Real-World Applications
+### 🤖 Machine Learning Club — SUP'COM
 
----
+**HR Manager · 2025 – 2026**
 
-# 📊 GitHub Stats
+Organized the **AI GOAT 1.0 Hackathon** and contributed to event coordination and logistics.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariembenattia12&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariembenattia12&layout=compact&theme=transparent" height="170"/>
-</p>
+### 👥 Student Organizations
+
+**TEAM SUP'COM · SOS SUP'COM · GDG SUP'COM**
+
+Participated in technological events, workshops and hackathons.
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Let's Connect
+
+<div align="center">
 
 I'm always interested in discussing:
 
-* AI & Machine Learning
-* Edge AI
-* Embedded Systems
-* Telecommunications
-* IoT
-* Research opportunities
-* Engineering projects
+**AI · Edge AI · Embedded Systems · Telecommunications · IoT · Research · PFE Opportunities**
 
-📧 **Email:** [mariem.benattia@supcom.tn](mailto:mariem.benattia@supcom.tn)
+<br>
 
-🔗 **LinkedIn:** [Mariem Ben Attia](https://www.linkedin.com/)
+<a href="mailto:mariem.benattia@supcom.tn">
+<img src="https://img.shields.io/badge/Email-mariem.benattia%40supcom.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 **GitHub:** [mariembenattia12](https://github.com/mariembenattia12)
+<a href="https://github.com/mariembenattia12">
+<img src="https://img.shields.io/badge/GitHub-mariembenattia12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Building intelligent systems at the edge 🚀</b>
-</p>
+<div align="center">
+
+### 🚀 *Building intelligent systems at the edge.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mariembenattia12&style=flat-square&color=0A66C2&label=Profile+Views"/>
+
+</div>
